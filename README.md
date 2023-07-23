@@ -35,7 +35,7 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
 
 ## Demo Highlights 🎥
 
-https://github.com/StanGirard/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-70562dca71f5
+<https://github.com/StanGirard/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-70562dca71f5>
 
 ## Getting Started 🚀
 
@@ -49,6 +49,7 @@ Ensure you have the following installed:
 
 - Docker
 - Docker Compose
+- PostgreSQL (Require 'psql' command)
 
 Additionally, you'll need a [Supabase](https://supabase.com/) account for:
 
